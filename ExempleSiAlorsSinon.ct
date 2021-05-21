@@ -1,0 +1,7 @@
+# Dream Script Exemple
+# Langage par TO_
+# Exemple par Holia
+
+VAR a = 1
+
+SI a == 1 ENSUITE PRINT("Ok") SINON PRINT("Non")
