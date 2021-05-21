@@ -1,0 +1,6 @@
+# Dream Script Exemple
+# Langage par TO_
+# Exemple par Holia
+
+VAR text = INPUT()
+PRINT(text)
