@@ -1,0 +1,9 @@
+# Dream Script Exemple
+# Langage par TO_
+# Exemple par Holia
+
+FONCTION ecrire(text)
+  PRINT(text)
+FIN
+
+ecrire("HEllo")
