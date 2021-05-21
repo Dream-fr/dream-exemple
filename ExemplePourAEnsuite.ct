@@ -1,0 +1,11 @@
+# Dream Script Exemple
+# Langage par TO_
+# Exemple par Holia
+
+VAR i = 0
+
+POUR i = 0 A 5 ENSUITE
+	PRINT("Hello")
+FIN
+
+# Marquera 5 fois Hello
