@@ -1,0 +1,9 @@
+# Dream Script Exemple
+# Langage par TO_
+# Exemple par Holia
+
+VAR a = "Salut "
+VAR b = "ca va ?"
+
+PRINT(a)
+PRINT(b)
