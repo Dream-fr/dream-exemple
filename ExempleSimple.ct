@@ -12,4 +12,9 @@ VAR bbb = aaa + 10
 PRINT(bbb)
 
 FONCTION check() 
-  SI aaa == 20 
+  SI bbb == 20 ENSUITE PRINT("AAA est égal a 20") SINON PRINT("AAA ne fait pas 20")
+FIN
+
+check()
+
+# Ceci est un exemple de script Dream
