@@ -1,0 +1,14 @@
+# Dream Language
+# By TO_
+# Example by Remag
+
+PRINT("Remag Dream !")
+PRINT("Version 1.0")
+
+VAR aaa = 10
+
+VAR bbb = aaa + 10
+
+PRINT(bbb)
+
+FONCTION check() 
