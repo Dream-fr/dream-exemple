@@ -12,3 +12,4 @@ VAR bbb = aaa + 10
 PRINT(bbb)
 
 FONCTION check() 
+  SI aaa == 20 
